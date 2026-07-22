@@ -36,7 +36,7 @@ export default function App() {
         <header className="border-b border-slate-700 pb-6 space-y-3">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
             <div>
-              <h1 className="text-4xl font-bold tracking-tight text-red">Muhyi Siddiqui</h1>
+              <h1 className="text-4xl font-bold tracking-tight text-white">Muhyi Siddiqui</h1>
               <p className="text-slate-400 font-medium mt-1">
                 Computer Science @ UCF | Minors in Math & Secure Computing (SCAN)
               </p>
